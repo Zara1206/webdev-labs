@@ -1,3 +1,9 @@
+body {
+    box-sizing: border-box;
+    border: 10px solid black;
+    margin: 15px;
+}
+
 .item {
     display:flex;
     justify-content: center;
@@ -10,13 +16,17 @@
 
 h2 {
     font-weight: bold;
-    justify-content: center;
+    text-align: center;
+    text-decoration: underline;
 }
 
 #headdiv {
     background-color: brown;
+    margin: 0%;
+    padding: 15px;
 }
 
 h1 {
     color: white;
+    text-align: center;
 }
