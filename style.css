@@ -1,0 +1,22 @@
+.item {
+    display:flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.price {
+    font-weight: bold;
+}
+
+h2 {
+    font-weight: bold;
+    justify-content: center;
+}
+
+#headdiv {
+    background-color: brown;
+}
+
+h1 {
+    color: white;
+}
